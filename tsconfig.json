@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "strict": true,
+    "allowJs": true,
+    "baseUrl": ".",
+    "outDir": "./dist",
+    "skipLibCheck": true,
+    "noUnusedLocals": true,
+    "noUnusedParameters": true,
+    "allowUnreachableCode": false,
+    "strictFunctionTypes": true,
+    "esModuleInterop": true,
+    "target": "ESNext"
+  },
+  "exclude": ["./dist", "./node_modules"]
+}
